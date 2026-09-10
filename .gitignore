@@ -1,0 +1,16 @@
+# Sorties de compilation Maven
+target/
+bin/
+*.class
+
+# Fichiers de projet Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
