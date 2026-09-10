@@ -1,6 +1,6 @@
-package main.java.tp1;
+package tp1;
 
-public class add {
+public class Add {
     public int ajouter(int a, int b){
         return a + b ;
     }
