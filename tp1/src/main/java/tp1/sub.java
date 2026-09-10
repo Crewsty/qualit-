@@ -1,6 +1,6 @@
 package tp1;
-public class sub {
-    public int Sub(int a, int b) {
+public class Sub {
+    public int sub(int a, int b) {
         return a - b;
     }
 }
